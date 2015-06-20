@@ -1,0 +1,26 @@
+{
+  "name": "twitending",
+  "version": "0.0.1",
+  "description": "Scrape a twitter feed",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pratikpparikh/twitending.git"
+  },
+  "dependencies": {
+    "cheerio": "^0.16.0",
+    "express": "^4.4.2",
+    "request": "^2.36.0"
+  },
+  "keywords": [
+    "twitter treding",
+    "scrape",
+    "twitending"
+  ],
+  "author": "Pratik Parikh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pratikpparikh/twitending/issues"
+  },
+  "homepage": "https://github.com/pratikpparikh/twitending"
+}
