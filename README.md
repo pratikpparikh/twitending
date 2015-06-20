@@ -1,2 +1,4 @@
 # twitending
-service for twitter trending news as json twitending.heroku.com
+
+Scrape a twitter treding news.
+Example: http://twitending.herokuapp.com/
